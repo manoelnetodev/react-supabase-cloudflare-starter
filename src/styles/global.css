@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/*
+ * Cores do projeto
+ * Primária:   #6366f1 (Indigo)
+ * Secundária: #0ea5e9 (Sky)
+ */
+
+@theme {
+  --color-primary: #6366f1;
+  --color-secondary: #0ea5e9;
+}
